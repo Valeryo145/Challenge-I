@@ -30,7 +30,5 @@ THEN I find a concise, descriptive title
 -Added tags such as body, figure, section, header, aside, and footer. To create a logical structure.  
 
 #ScreenShots
-
-![Uploading Horiseon Social Solution Services - Personal - Microsoft​ Edge 8_16_2022 7_47_01 PM.png…]()
-
-![Horiseon Social Solution Services - Personal - Microsoft​ Edge 8_16_2022 7_47_11 PM](https://user-images.githubusercontent.com/110436164/185023555-bb3b1312-5e57-4633-835a-1a23688525a0.png)
+![Horiseon Social Solution Services - Personal - Microsoft​ Edge 8_16_2022 7_47_01 PM](https://user-images.githubusercontent.com/110436164/185023734-6559197f-888a-4ea3-8ae9-23d80f55efe7.png)
+![Horiseon Social Solution Services - Personal - Microsoft​ Edge 8_16_2022 7_47_11 PM](https://user-images.githubusercontent.com/110436164/185023997-4fcff818-c485-459a-af29-1d44f1a837e4.png)
