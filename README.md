@@ -1,6 +1,6 @@
 # Challenge-I  
 
-##Code Refactor Starter Code
+#Code Refactor Starter Code
 
 User Story
 
@@ -21,10 +21,15 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
-##Changes made to craete a codebase that follows accessibility standards.
+#Changes made to craete a codebase that follows accessibility standards.
 
 -Added title name that reads "Horiseon Social Solution Services" instead of "website".
 
 -Edited "div" elements to create semantic HTML elements.
 
 -Added tags such as body, figure, section, header, aside, and footer. To create a logical structure.  
+
+#ScreenShots
+
+![Uploading Horiseon Social Solution Services - Personal - Microsoft​ Edge 8_16_2022 7_47_01 PM.png…]()
+![Horiseon Social Solution Services - Personal - Microsoft​ Edge 8_16_2022 7_47_11 PM](https://user-images.githubusercontent.com/110436164/185023555-bb3b1312-5e57-4633-835a-1a23688525a0.png)
