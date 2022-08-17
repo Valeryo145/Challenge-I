@@ -24,7 +24,9 @@ THEN I find a concise, descriptive title
 # Changes made to craete a codebase that follows accessibility standards.
 
 -Added title name that reads "Horiseon Social Solution Services" instead of "website".
+
 -Edited "div" elements to create semantic HTML elements.
+
 -Added tags such as body, figure, section, header, aside, and footer. To create a logical structure.  
 
 # ScreenShots
